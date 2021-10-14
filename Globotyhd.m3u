@@ -50,3 +50,35 @@ https://d1wwtskvr1r98k.cloudfront.net/22d48d4e768648da93b637a3bfc65b18/index_2.m
 https://m3u9.ml/b/hls1/premiere7.m3u8?mu3zAQc9HC3GbwJq=NkEgmb9kEju4KshI55h0Gw&3U1G7qaTxrPbalZnEx=1633838715
 #EXTINF:-1 tvg-id="Premiere Fc" tvg-name="Premiere Fc" tvg-logo="https://i.pinimg.com/originals/aa/1d/84/aa1d84dc697400b96ae6e3118f3a5675.png" group-title="Canais - Esportes",Premiere Fc
 https://m3u9.ml/b/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=zp_Um4QmR6PqWz8efGZz7w&3U1G7qaTxrPbalZnEx=1633838857
+#EXTINF:-1 tvg-id="" tvg-name="Tv Novo Tempo" tvg-logo="https://seeklogo.com/images/N/novo-tempo-logo-AA14F9873B-seeklogo.com.png" group-title="Canais - Abertos",Tv Novo tempo HD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:-1 tvg-id="RBA Tv" tvg-name="RBA tv" tvg-logo="https://n1entreter.com.br/wp-content/uploads/2017/12/redetv.jpg" group-title="Canais - Abertos",RBA tv
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="Tv Câmera" tvg-name="TV Câmera SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-camara_m.png" group-title="Canais - Abertos",TV Câmera SD
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="Tv Caravelas" tvg-name="TV CaravelasSD" tvg-logo="https://pbs.twimg.com/profile_images/913844846934265856/kIl9v0lz_400x400.jpg" group-title="Canais - Abertos",TV Caravelas SD
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1185768735.m3u8]
+#EXTINF:-1 tvg-id="Tnt Esportes" tvg-name="Tnt Esportes" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="Tnt Esportes 5" tvg-name="Tnt Esportes 5" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes 5
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="Tnt Esportes 7" tvg-name="Tnt Esportes 7" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes 7
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="Canal Mma" tvg-name="Canal Mma" tvg-logo="https://pbs.twimg.com/profile_images/1040380158534971393/ulfd3Hc3_400x400.jpg" group-title="Canais - Esportes",Canal Mma
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="Canal Arte Um" tvg-name="Canal Arte Um" tvg-logo="https://i1.wp.com/bastidoresdainformacao.com.br/wp-content/uploads/2014/04/arte1.png" group-title="Canais - Variedades",Canal Arte UM
+https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8
+#EXTINF:-1 tvg-id="Canal Life Time" tvg-name="Canal Life Time" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/04/canal-lifetime-chega-ao-brasil-em-julho.gif" group-title="Canais - Variedades",Canal Life Time
+https://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_2.m3u8
+#EXTINF:-1 tvg-id="Tv Brasil" tvg-name="Tv Brasil" tvg-logo="https://seeklogo.com/images/T/tv-brasil-logo-694CF35F61-seeklogo.com.jpg" group-title="Canais - Abertos",Tv Brasil HD
+https://edge-go-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(GZWgYSlGL0kn3ULDujuUGA)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGCSgBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
+#EXTINF:-1 tvg-id="Rede Sbt" tvg-name="Rede Sbt" tvg-logo="https://i1.sndcdn.com/artworks-000054984331-ltatmb-t500x500.jpg" group-title="Canais - Abertos",Rede Sbt HD
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1129967546_b1000000.m3u8
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://exorbeo.com/wp-content/uploads/blogger/-Fy4zst8MqtI/T6VltrmKe7I/AAAAAAAAEyM/UY0MTlXpvI0/s1600/history%2Bhd%2Bna%2Bclaro%2Btv.jpg" group-title="Canais - Variedades",History Channel
+https://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8
+#EXTINF:-1 tvg-id="Tv Serie" tvg-name="Tv Serie" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/gpUsYyXK_400x400.png" group-title="Canais - Variedades",Tv Serie
+https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w2103762623.m3u8
+#EXTINF:-1 tvg-id="GOSPEL MOVIE TV" tvg-name="GOSPEL MOVIE TV" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/GOSPEL.png" group-title="Canais - Variedades",GOSPEL MOVIE TV
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w44071130.m3u8
+#EXTINF:-1 tvg-id="Mtv Brasil" tvg-name="Mtv Mtv Brasil" tvg-logo="https://yt3.ggpht.com/gJ9P44y_-Vkxbfx43PUiab690vuCTWwuDKiCpTMxC6Hh9q6HBZyHyEr9lukHxarfePUU8Bu9=s400-c-k-c0x00ffffff-no-rj" group-title="Canais - Musicas",Mtv Brasil
+https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_2.m3u8
