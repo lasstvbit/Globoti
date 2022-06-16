@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Novelas" tvg-name="Novelas" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/1/1f/Cora%C3%A7%C3%A3o_Tra%C3%ADdo.jpg/revision/latest/top-crop/width/360/height/450?cb=20220110194127&path-prefix=pt-br" group-title="Canal Novela",Novelas
+https://static.wikia.nocookie.net/dublagem/images/1/1f/Cora%C3%A7%C3%A3o_Tra%C3%ADdo.jpg/revision/latest/top-crop/width/360/height/450?cb=20220110194127&path-prefix=pt-br
 #EXTINF:-1 tvg-id="Tnt Esportes 5" tvg-name="Tnt Esportes 5" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes 5
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Tnt Esportes 7" tvg-name="Tnt Esportes 7" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes 7
